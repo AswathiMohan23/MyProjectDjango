@@ -16,13 +16,9 @@
       <change beforePath="$PROJECT_DIR$/../../AddressBook_OOPS/AddressBook/Address_book_methods.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../AddressBook_OOPS/AddressBook/Details.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../AddressBook_OOPS/Welcome.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/DjangoProject.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyProject/MyProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyProject/MyProject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/EmployeeApp/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyProject/EmployeeApp/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/EmployeeApp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyProject/EmployeeApp/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../EmpWage_unitTest/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../EmpWage_unitTest/main.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Python_Snake_And_Ladder/Welcome.py" beforeDir="false" />
